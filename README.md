@@ -1,27 +1,29 @@
-# Coderman ![idle-down](https://github.com/shuoros/Coderman/assets/45015114/60350dab-6d59-4a48-b7c9-794ba882215a)
+# coderman
 
-Coderman is a 2D role-playing game in pixel art style. The story of this game is about a programmer called Coderman who fights with bugs with his superhero powers and destroys them and makes the applications continue to run.
+This template should help get you started developing with Vue 3 in Vite.
 
-**This project is currently under development 🚧🏗️**
+## Recommended IDE Setup
 
-![idle-down](sample.gif)
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-# What's new in v0.1.0
-- Rendering Map and Sprite
-- Animation for Sprite
-- Keyboard controller to controlling character movement
+## Customize configuration
 
-## Install & Run
-Simply clone this repo into your machine and open `index.html` up on your browser. (Google Chrome recommended) 
+See [Vite Configuration Reference](https://vite.dev/config/).
 
-## Authors
-Coderman is developed by [Soroush Shemshadi](https://github.com/shuoros) and [contributors](CONTRIBUTORS.md).
+## Project Setup
 
-# Contribution
-If you have any idea about the game or want to contribute on this project, Please read the [contribution guide](CONTRIBUTE.md).
+```sh
+npm install
+```
 
-## Releases
-To see the changes in different versions of Coderman, you can read the [release notes](RELEASENOTES.md).
+### Compile and Hot-Reload for Development
 
-## Issues
-If you encounter a bug or vulnerability, please read the [issue policy](ISSUES.md).
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
